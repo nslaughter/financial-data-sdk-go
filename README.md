@@ -154,6 +154,23 @@ stage covers this SDK will be decided when that stage is planned.
 - *Building an SDK your customers love*: an article on the design behind these
   SDKs, in preparation. I'll link it here when it is published.
 
+## License
+
+This project is source available under a custom license, the
+[Nathan Slaughter Personal Use License](LICENSE) (`LicenseRef-NSPUL-1.0`).
+It is not open source.
+
+- Anyone may read the source, including on behalf of an organization.
+- An individual may run it, and change it privately, for their own personal
+  use, such as learning, study, and personal projects.
+- Everything else needs my written permission first: use by or for an
+  organization, including evaluating this project or my services; use in a
+  business; and publishing, redistributing, packaging, or hosting the
+  project, or putting its code in another project.
+
+Ask for permission at git@nathanslaughter.com. The [LICENSE](LICENSE)
+controls; this summary doesn't change it.
+
 ## Work with me on an SDK your customers can use
 
 I take on SDK projects scoped around the workflows your customers need to
